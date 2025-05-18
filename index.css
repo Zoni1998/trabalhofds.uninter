@@ -1,0 +1,59 @@
+body{
+    background-color:aquamarine;
+}
+h1{ 
+    color:darkred;
+    text-align:center;
+    font-size:50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{ 
+    font-size:26px;
+    text-align:justify;
+      }
+ul{
+    font: size 23px;
+}
+h2{
+    font-size:30px;
+    text-align:justify;margin: 10px;
+}
+img{ 
+    border-radius: 10px; 
+    margin: 10px;;
+}
+table{
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 10px;
+}
+#cabecalho{
+    background-color:darkcyan;
+    color:black;
+    font-size:30px;
+    text-align:center;
+}
+#estadosUnidos{
+    background-color:lightblue;
+    color:black;
+    font-size:30px;
+    text-align:center;
+}
+#portugal{
+    background-color:lightblue;
+    color:black;
+    font-size:30px;
+    text-align:center;
+}
+#italia{
+    background-color:lightblue;
+    color:black;
+    font-size:30px;
+    text-align:center;
+}
+a{color:black;
+    font-size:20px;
+}
+a:hover{ color:blue;
+}
